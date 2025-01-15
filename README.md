@@ -27,16 +27,16 @@ I've explored AI from disease detection to card counting—versatile, just like 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sharikanwar" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="sharikanwar" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="sharikanwar" height="50" width="50" />
 </a>
 <a href="https://instagram.com/rawna_kirahs" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="rawna_kirahs" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="rawna_kirahs" height="50" width="50" />
 </a>
 <a href="https://linkedin.com/in/sharik-anwar-zahir-hussain" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Profile" height="50" width="50" />
 </a>
 <a href="https://discord.com/users/717241988591648798" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord Profile" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord Profile" height="50" width="50" />
 </a>
 
 
