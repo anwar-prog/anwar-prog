@@ -9,10 +9,10 @@
 Generative AI  
 German language (currently at B2 level).
 
-🤝 **Looking to collaborate on :** 
+🤝 **Looking to collaborate on:**  
+- AI and Machine Learning Projects  
+- Projects involving computer vision, NLP, and generative models
 
-AI and Machine Learning Projects
-Projects involving computer vision, NLP, generative models 
 
 💬 **Ask me about :**
 
