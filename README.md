@@ -11,8 +11,8 @@ German language (currently at B2 level).
 
 🤝 **Looking to collaborate on :** 
 
-AI and Machine Learning projects, 
-including anomaly detection, reinforcement learning, and software testing.  
+AI and Machine Learning Projects
+Projects involving computer vision, NLP, generative models 
 
 💬 **Ask me about :**
 
