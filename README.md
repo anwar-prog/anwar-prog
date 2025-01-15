@@ -7,7 +7,7 @@
   🌱 **Currently learning:**  
 
 Generative AI  
-German language (currently at B2 level).
+German Language (Currently at B2 level).
 
 🤝 **Looking to collaborate on:**  
 - AI and Machine Learning Projects  
