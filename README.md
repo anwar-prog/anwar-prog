@@ -27,9 +27,6 @@ I've explored AI from disease detection to card counting—versatile, just like 
 <h3 align="left">Get to know me :</h3>
 <p align="left">
 
-📄 **Resume:**  
-[Click here to view my resume](https://github.com/anwar-prog/anwar-prog/blob/main/SHARIK%20ANWAR%20CV%20.pdf)
-
 
 <a href="https://fb.com/sharikanwar" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="sharikanwar" height="50" width="50" />
