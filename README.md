@@ -7,7 +7,6 @@
   🌱 **Actively learning:**  
 
 Frontend (React and TypeScript)
-
 Generative AI  
 German Language (Currently at B2 level).
 
