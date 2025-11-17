@@ -1,7 +1,7 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5NDkyOTEsIm5iZiI6MTczNjk0ODk5MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDEzNDk1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2ZGEzYjgwM2Q0NWQyMGQxYWJhNjIzNjJmYjUyMGRhOTg5YzMxZGZiODViN2E2OTA1NmI5NDE0ZDM5YmRmZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2I_0bK6X5ayV_1ilmz_aMv7Gi532uzztVvqDqloh46o)](https://anwar-prog.io)
 
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> I'm Sharik Anwar Zahir Hussain</h1>
-<h3 align="center">Exploring AI as a Master's student, building solutions with Python and ML :) </h3>
+<h3 align="center">Exploring AI as a Master's student; Building solutions with Python and ML :) </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
   🌱 **Actively learning:**
