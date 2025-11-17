@@ -6,22 +6,19 @@
 
   🌱 **Actively learning:**  
 
-LLM, Generative AI  
+LLM | Gen AI  
 Frontend (React and TypeScript)  
 German Language (Currently at B2 level).
 
 🤝 **Looking to collaborate on:**  
 - AI and Machine Learning Projects  
 - Projects involving computer vision, NLP, and generative models
+- Full-stack applications involving Python
 
 
 💬 **Ask me about :**
 
 Artificial Intelligence, Machine Learning, and Deep Learning.  
-
-⚡ **Fun fact :**
-
-I've explored AI from disease detection to card counting—versatile, just like my cooking skills!  
 
 ---
 
