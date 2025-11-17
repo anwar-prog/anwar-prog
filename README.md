@@ -6,7 +6,7 @@
 
   🌱 **Actively learning:**  
 
-Generative AI  
+LLM, Generative AI  
 Frontend (React and TypeScript)  
 German Language (Currently at B2 level).
 
