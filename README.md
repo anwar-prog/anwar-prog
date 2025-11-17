@@ -7,7 +7,9 @@
   🌱 **Actively learning:**
 
 LLM, Gen AI
+
 Frontend (React and TypeScript)
+
 German Language (Currently at B2 level)
 
 🤝 **Looking to collaborate on:**  
